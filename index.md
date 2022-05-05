@@ -16,21 +16,27 @@ Joseph Mendis
 
 Dr. Raja Kushalnagar
 
-## Problem
+# About My Project
+
+Gallaudet Drone Video Analysis AI
+
+## Questions/Problem
 
 ## Project Scope
 
 ## Design
 
-## Actual or intended customers
+## Annotating - Phase 1, 2, & 3
 
-## Journey
+## Training
 
-## Demo
+## Our Journey
 
-## About My Project
+## Results/ Demo
 
-Gallaudet Drone Video Analysis AI
+## AI Myths
+
+##Conclusions
 
 [My Final Report](files/finalreport.pdf)
 
