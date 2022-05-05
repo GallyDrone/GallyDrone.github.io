@@ -8,15 +8,17 @@ title: ITS 492 Gallaudet Drone Video Analysis AI
 
 ## About Me
 
-My info goes here.
+Devesh Saini
+Jonathan Tikhonoff
+Joseph Mendis
 
 ## About My Mentor
 
-Mentor info goes here.
+Dr. Raja Kushalnagar
 
 ## About My Project
 
-Project description goes here.
+Gallaudet Drone Video Analysis AI
 
 [My Final Report](files/finalreport.pdf)
 
