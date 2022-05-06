@@ -57,6 +57,11 @@ Here are results from our training: We annotated more than 200 medias for each g
 
 ## Results/Demo:
 
+We were able to develop models but was unable to export it analyze external medias. <br />
+<img src="images/DVp1.png" alt="picture1"> <br /><br />
+<img src="images/DVp2.png" alt="picture1"> <br /><br />
+<img src="images/DVp3.png" alt="picture1"> <br /><br />
+
 ## Issues/Feedbacks:
 
 1.) Unable to use AI to analyze videos due to issues with AWS. CrowdAI engineers are currently looking into it. <br />
@@ -66,4 +71,13 @@ Here are results from our training: We annotated more than 200 medias for each g
 
 
 ## Conclusions:
+AI is modeled after how our brain works at basic level. A cutting edge experimentation in understanding how our brain works. <br /><br />
+
+AI is a tool like any hammer or knife. <br /><br />
+
+Just as people can use AI to attack, we can use AI to defend or improve our lifestyle such as stoplight system (use Los Angeles as an example) or meteorological analysis. <br /><br />
+
+With our work so far, we can continue this by working with CrowdAI engineers and staff to make our models work to analyze external medias. As well as continue to add more annotating to our previous categories to get a more accurate model. We can also devlop new categories to annotate and develop models for. <br /><br />
+
+In all we learned a lot about how AI & machine learning works and its possible implications on the real world. The models can be utilized to identify or measure various things. It can solve specfic problems using medias. 
 
