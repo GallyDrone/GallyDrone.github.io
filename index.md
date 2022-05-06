@@ -8,8 +8,8 @@ title: ITS 492 Gallaudet Drone Video Analysis AI
 
 ## About Us:
 
-Devesh Saini\
-Jonathan Tikhonoff\
+Devesh Saini <br />
+Jonathan Tikhonoff <br />
 Joseph Mendis
 
 ## About Our Project:
