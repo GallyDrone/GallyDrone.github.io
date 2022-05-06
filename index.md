@@ -8,13 +8,14 @@ title: ITS 492 Gallaudet Drone Video Analysis AI
 
 ## About Us:
 
-Devesh Saini <br />
-Jonathan Tikhonoff <br />
-Joseph Mendis
+Devesh Saini: Information Technology Major <br />
+Jonathan Tikhonoff: Information Technology Major <br />
+Joseph Mendis: Information Technology Major
 
 ## About Our Project:
 
-Gallaudet Drone Video Analysis AI
+Gallaudet Drone Video Analysis AI <br />
+<iframe width="560" height="315" src= "https://youtu.be/QJNUN0DDLWM">
 
 
 ## Questions/Problem:
