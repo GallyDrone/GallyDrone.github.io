@@ -12,10 +12,6 @@ Devesh Saini
 Jonathan Tikhonoff
 Joseph Mendis
 
-## About My Mentor
-
-Dr. Raja Kushalnagar
-
 # About My Project
 
 Gallaudet Drone Video Analysis AI
@@ -30,16 +26,11 @@ Gallaudet Drone Video Analysis AI
 
 ## Training
 
-## Our Journey
-
 ## Results/ Demo
 
-## AI Myths
-
-##Conclusions
+## Conclusions
 
 [My Final Report](files/finalreport.pdf)
 
-## My Blog
 
 [My Blog](blog.html)
