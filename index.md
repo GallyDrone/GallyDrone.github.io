@@ -59,8 +59,8 @@ Here are results from our training: We annotated more than 200 medias for each g
 
 We were able to develop models but was unable to export it analyze external medias. <br />
 <img src="images/DVp1.png" alt="picture1"> <br /><br />
-<img src="images/DVp2.png" alt="picture1"> <br /><br />
-<img src="images/DVp3.png" alt="picture1"> <br /><br />
+<img src="images/DVp2.png" alt="picture2"> <br /><br />
+<img src="images/DVp3.png" alt="picture3"> <br /><br />
 
 ## Issues/Feedbacks:
 
