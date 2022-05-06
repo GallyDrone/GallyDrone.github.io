@@ -52,7 +52,7 @@ Here are results from our training: We annotated more than 200 medias for each g
 <iframe width="560" height="315" src= "https://www.youtube.com/embed/ap_tFLDa5wc">
 </iframe>
 3.) Roads: <br />
-<iframe width="560" height="315" src= "https://www.youtube.com/embed/prO7T1pZADw&t=22s">
+<iframe width="560" height="315" src= "https://www.youtube.com/embed/prO7T1pZADw">
 </iframe>
 
 ## Results/Demo:
