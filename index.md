@@ -37,9 +37,9 @@ In order to solve and address these problems/questions and begin our project sco
 
 ## Annotating - Phase 1, 2, & 3:
 
-Phase 1: Inital Annotation <br />.    This is the first pass that anyone need to do on a video or picture. "Starting from scratch." In this phase there are specfic categories that the users make for each object they want to annotate. These categories have specific polygons attached to it where users will draw polygons on the media to annotate and label a certain part of it.<br />
-Phase 2:  Annotation Review<br />     Phase 2 is all about quality control. This is a good part for having someone else to review the annotating work done in Phase 1 to make sure that everything is annotated correctly.<br />
-Phase 3:  Final Review<br />     This phase is optional but reccommend, pretty much simlar to phase 2, checking it again for one final review to make sure all the annotation media is correct and in high quality.<br />
+Phase 1: Inital Annotation: This is the first pass that anyone need to do on a video or picture. "Starting from scratch." In this phase there are specfic categories that the users make for each object they want to annotate. These categories have specific polygons attached to it where users will draw polygons on the media to annotate and label a certain part of it.<br /><br />
+Phase 2: Annotation Review: Phase 2 is all about quality control. This is a good part for having someone else to review the annotating work done in Phase 1 to make sure that everything is annotated correctly.<br /><br />
+Phase 3:  Final Review: This phase is optional but reccommend, pretty much simlar to phase 2, checking it again for one final review to make sure all the annotation media is correct and in high quality.
 
 ## Training:
 
