@@ -6,31 +6,28 @@ title: ITS 492 Gallaudet Drone Video Analysis AI
 * TOC
 {:toc}
 
-## About Us
+## About Us:
 
 Devesh Saini
 Jonathan Tikhonoff
 Joseph Mendis
 
-# About My Project
+## About Our Project:
 
 Gallaudet Drone Video Analysis AI
 
-## Questions/Problem
+## Questions/Problem:
 
-## Project Scope
+## Project Scope:
 
-## Design
+## Design:
 
-## Annotating - Phase 1, 2, & 3
+## Annotating - Phase 1, 2, & 3:
 
-## Training
+## Training:
 
-## Results/ Demo
+## Results/ Demo:
 
-## Conclusions
+## Conclusions:
 
 [My Final Report](files/finalreport.pdf)
-
-
-[My Blog](blog.html)
